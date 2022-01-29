@@ -7,7 +7,8 @@
 2 . Tuples 
 </br>
 </br>
-3 . Dictionaries
+
+## 3 . Dictionaries -- It is a collection data type which is unordered, mutable and key-value pairs
 </br>
 </br>
 4 . Sets
