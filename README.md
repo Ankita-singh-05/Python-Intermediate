@@ -1,23 +1,23 @@
 # Python-Intermediate
 
 1 . List 
-
-
-2 . Tuples
-
-
+</br>
+2 . Tuples 
+</br>
 3 . Dictionaries
+</br>
 4 . Sets
-5 . Strings
-6 . Collections
-7 . Intertools
-8 . Lambda Function
-9 . Exception and Errors
-10. Logging
-11. JSON
-12. Random Numbers
-13. Decorators
-14. Generators
+</br>
+5 . Strings</br>
+6 . Collections</br>
+7 . Intertools</br>
+8 . Lambda Function</br>
+9 . Exception and Errors</br>
+10. Logging</br>
+11. JSON</br>
+12. Random Numbers</br>
+13. Decorators</br>
+14. Generators</br>
 15. Threading VS Multiprocessing
 16. Multithreading
 17. Multiprocessing
