@@ -1,6 +1,6 @@
 # Python-Intermediate
  
-1 . List  -- List are ordered, mutable(elements inside the list can be change) and it allows duplicate elements
+## 1 . List  -- List are ordered, mutable(elements inside the list can be change) and it allows duplicate elements
 </br>
 </br>
 2 . Tuples 
