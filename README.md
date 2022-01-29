@@ -52,12 +52,12 @@
 </br>
 </br>
 34. Function Arguments
-
-
+</br>
+</br>
 37. The Asterick(*) Operator
-
-
+</br>
+</br>
 40. Shallow VS Deep Copying
-
-
+</br>
+</br>
 43. Context Managers
