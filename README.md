@@ -11,7 +11,8 @@
 ## 3 . Dictionaries -- It is a collection data type which is unordered, mutable and key-value pairs
 </br>
 </br>
-4 . Sets
+
+## 4 . Sets -- It is a unordered, mutable, no duplicates
 </br>
 </br>
 5 . Strings
