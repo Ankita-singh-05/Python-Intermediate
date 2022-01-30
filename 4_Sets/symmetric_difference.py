@@ -13,4 +13,3 @@ print(sym_diff)
 # {6,7,8,9,10,11,12}
 
 
-# UNION, INTERSECTION AND DIFFERENCE does not modify the original set it creates the new set
