@@ -4,6 +4,6 @@ my_dict = {"name": "Ankita", "age": 20, "city": "pune", "email": "sdgshd@abc.com
 my_dict2 = dict(name="Yash", age= 9, city= "Pune")
 
 
-# it will merge and the which is already present in the previous dict it will update it to the new value 
+# update will merge the both the dict in such a way that if the same key values are present in another dict then it is overwritten
 my_dict.update(my_dict2)
 print(my_dict)
