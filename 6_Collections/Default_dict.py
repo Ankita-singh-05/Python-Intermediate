@@ -1,4 +1,4 @@
-# Default Dictionary - It is also similar to the default dict container with the only difference that it will have a default value if the key has not been set yet
+# Default Dictionary - It is also similar to the dict container with the only difference that it will have a default value if the key has not been set yet
 
 from collections import defaultdict
 
