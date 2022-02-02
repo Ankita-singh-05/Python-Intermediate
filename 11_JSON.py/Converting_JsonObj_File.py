@@ -1,5 +1,3 @@
-# Sort keys - this is used to sort the keys alphabetically
-
 import json
 
 person = {
@@ -10,6 +8,8 @@ person = {
     "titles": ["engineer", "programmer"]
 }
 
-personJSON = json.dumps(person, indent=4, sort_keys=True)
-print(personJSON)
+# Person.json file will be created with all the above objects in it
+
+with open("person.json", "w") as file:
+    json.dump(person, file, indent=4)
 
