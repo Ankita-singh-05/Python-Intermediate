@@ -18,3 +18,7 @@ a = secrets.randbits(4)
 print(a)
 
 
+# Secret choice method
+mylist = list("ABCDEFGH")
+a = secrets.choice(mylist)
+print(a)
