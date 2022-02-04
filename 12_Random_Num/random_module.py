@@ -20,7 +20,6 @@ print(a)
 a = random.randrange(1, 10)
 print(a)
 
-
 # Normal variate - with attributes mu and sigma (mean and standard deviation)
 a = random.normalvariate(0, 1)
 print(a)
